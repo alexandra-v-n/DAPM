@@ -6,7 +6,7 @@ After completing the two projects completely, I remembered some stuff used long 
 
 - also, we've uploaded a picture of the application :) 
 
-![GitHub Logo](/app.jpg)
+![GitHub Logo](app.jpg)
 
 
 
