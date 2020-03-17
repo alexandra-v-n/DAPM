@@ -1,3 +1,1 @@
-<video width="320" height="240" controls>
-  <source src="video_howTheAppWorks.mp4" type="video/mp4">
-</video>
+There is also a mp4 in the project that shows how the app works -- video_howTheAppWorks
