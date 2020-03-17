@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="loginBtn">Login</string>
+    <string name="login_title">Login to play the game</string>
+    <string name="question">At what number am I thinking ? The number is between 0 and 10</string>
+    <string name="guessBtn">Guess</string>
+</resources>
