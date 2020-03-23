@@ -8,6 +8,4 @@
 * In exercise 7 we had to send a primitive with intent and display it with putExtra, this primitive being also displayed in another  textView separate from the previous one. To perform this exercise, we used the details related to the primitives in the laboratory 3.
 * We also made a video with the way the application works and when we save a message, but also when we write the message and do not save it - it will display the message that was saved before it. We converted the video to GIF because we didn't find a way to display mp4 in readme:
 
-<p align="center">
  ![](video-lab6.gif)
-</p>
