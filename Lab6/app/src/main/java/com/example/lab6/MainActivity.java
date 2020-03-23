@@ -48,8 +48,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(MainActivity.this, SecondActivity.class);
-                //bonus 1 part 1 --- part 2 in the SecondActivity
-                i.putExtra("string",preference.getValue() );
+                i.putExtra("string","Hello, my name is Primitive! I'm a visitor coming from the mainActivity" );
                 startActivity(i);
             }
         });

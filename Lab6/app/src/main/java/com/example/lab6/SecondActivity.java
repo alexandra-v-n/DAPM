@@ -24,14 +24,12 @@ public class SecondActivity extends AppCompatActivity {
         textView = findViewById(R.id.textView);
         textView.setText("The previously saved message is: " + preference.getValue());
 
-
-        //bonus 1 part 2
         bonusTextView = findViewById(R.id.bonusTextView);
         Intent intent = getIntent();
         Bundle extras = intent.getExtras();
         if(extras != null) {
             String getString= extras.getString("string");
-            bonusTextView.setText("The previously message added with putExtra for the 1st bonus is: " + getString);
+            bonusTextView.setText("Message: " + getString);
 
         }
     }
