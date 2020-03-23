@@ -1,5 +1,5 @@
 
-1. In this laboratory, we had at first instance to understand certain concepts used for local data storage with the help of SharedPreferences. 
+..* In this laboratory, we had at first instance to understand certain concepts used for local data storage with the help of SharedPreferences. 
 2. The first exercise consisted of creating the layout of the first activity and of course looking for a png to make it look 
  like the one in the lab. We had to add 2 buttons and an editText in which we will add some message in the future which will be displayed in a new activity.
 3. The second exercise consisted of creating a class called MySharedPreference, where we already had a structure of this given in the  lab, but we had to modify the current functions and initialize SharedPreferences, all of which were done using the >concepts discussed above.
